@@ -1,6 +1,7 @@
 {
   "name": "glob-stream",
-  "version": "0.3.0",
+  "version": "5.3.1",
+  "homepage": "https://github.com/types/npm-glob-stream",
   "main": "index.d.ts",
   "dependencies": {
     "glob": "registry:npm/glob#6.0.0+20160723033700"
