@@ -1,4 +1,6 @@
 # Typed glob-stream
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/types/npm-glob-stream.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/types/npm-glob-stream.svg?branch=master)](https://travis-ci.org/types/npm-glob-stream)
 
 Typescript Typings for [glob-stream](https://www.npmjs.com/package/glob-stream).
